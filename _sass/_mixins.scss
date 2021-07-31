@@ -6,7 +6,7 @@
 }
 
 @mixin mainFont($weight: 700) {
-  font-family: "Titillium Web", 'CookieRun-Regular', "Helvetica Neue", Helvetica, cursive;
+  font-family: 'CookieRun-Regular', "Titillium Web", "Helvetica Neue", Helvetica, cursive;
   font-weight: $weight;
   font-style: normal;
 }
