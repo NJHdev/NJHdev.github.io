@@ -1,7 +1,7 @@
 ---
 date: 2021-07-31T00:00:00.000Z
 layout: post
-title: 아무것도 두려워 말라 원맨 미디 벤드
+title: 아무것도 두려워 말라 원맨 미디 밴드
 subtitle: 'Don't be afraid One Man Midi Band'
 description: 
 image: https://njhdev.github.io/assets/img/posts/midi/dont_be_afraid.jpg
