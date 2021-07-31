@@ -2,7 +2,7 @@
 date: 2021-07-31T00:00:00.000Z
 layout: post
 title: 아무것도 두려워 말라
-subtitle: 'Don't Be Afraid'
+subtitle: 'Dont Be Afraid'
 description: 
 image: https://njhdev.github.io/assets/img/posts/midi/dont_be_afraid.jpg
 optimized_image: 
