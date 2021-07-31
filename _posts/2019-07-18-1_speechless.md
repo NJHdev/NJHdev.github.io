@@ -1,5 +1,5 @@
 ---
-date: 2021-07-31T00:00:00.000Z
+date: 2019-07-18T00:00:00.000Z
 layout: post
 title: 알라딘 Speechless 플룻 커버
 subtitle: '(Aladdin Speechless Flute cover by NJH)'
