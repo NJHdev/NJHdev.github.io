@@ -1,12 +1,5 @@
-@font-face {
-  font-family: 'CookieRun-Regular';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/CookieRun-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
 @mixin mainFont($weight: 700) {
-  font-family: 'CookieRun-Regular', "Titillium Web", "Helvetica Neue", Helvetica, cursive;
+  font-family: 'Hi Melody', "Titillium Web", "Helvetica Neue", Helvetica, cursive;
   font-weight: $weight;
   font-style: normal;
 }
