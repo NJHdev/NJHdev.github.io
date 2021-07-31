@@ -6,10 +6,10 @@ subtitle: 'Lee Juck-Things We Took For Granted Flute Cover'
 description: 
 image: https://njhdev.github.io/assets/img/posts/blog-cover.png
 optimized_image: https://njhdev.github.io/assets/img/posts/blog-cover.png
-category: blog
+category: flute
 tags:
-  - welcome
-  - blog
+  - music
+  - flute
 author: njhdev
 paginate: true
 ---
