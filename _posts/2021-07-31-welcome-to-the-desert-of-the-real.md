@@ -4,8 +4,8 @@ layout: post
 title: Welcome to NJH Blog
 subtitle: 'NJH Blog에 오신 것을 환영합니다!'
 description: 
-image: assets/img/posts/blog-cover.png
-optimized_image: assets/img/posts/blog-cover.png
+image: https://njhdev.github.io/assets/img/posts/blog-cover.png
+optimized_image: https://njhdev.github.io/assets/img/posts/blog-cover.png
 category: blog
 tags:
   - welcome
