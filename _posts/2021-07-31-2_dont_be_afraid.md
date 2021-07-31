@@ -4,7 +4,7 @@ layout: post
 title: 아무것도 두려워 말라
 subtitle: 'J-US - You Still Love Me Midi Cover'
 description: 
-image: https://njhdev.github.io/assets/img/posts/midi/you_still_love_me.jpg
+image: https://njhdev.github.io/assets/img/posts/midi/dont_be_afraid.jpg
 optimized_image: 
 category: midi
 tags:
