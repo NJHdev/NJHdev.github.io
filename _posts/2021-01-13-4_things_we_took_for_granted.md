@@ -1,5 +1,5 @@
 ---
-date: 2021-07-31T00:00:00.000Z
+date: 2021-01-13T00:00:00.000Z
 layout: post
 title: 이적 - 당연한것들 플룻 커버
 subtitle: 'Lee Juck-Things We Took For Granted Flute Cover'
