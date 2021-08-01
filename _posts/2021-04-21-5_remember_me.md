@@ -10,7 +10,7 @@ category: flute
 tags:
   - music
   - flute
-author: njhdev
+author: NJHDev
 paginate: true
 ---
 
