@@ -8,7 +8,8 @@ bio: Namseoul Univ.
 github_username: njhdev
 facebook_username: penguin0112
 twitter_username: 
-instagram_username: njh_pnf
+instagram_username: njh0112
+instagram2_username: njh_pnf
 linkedin_username: 
 medium_username: 
 ---
