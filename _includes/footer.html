@@ -30,6 +30,11 @@
             <svg><use xlink:href="#icon-instagram"></use></svg>
         </a>
         {% endif %}
+        {% if site.youtube_channel id %}
+        <a href="https://www.youtube.com/channel/{{ site.site.youtube_channel id }}" title="Youtube">
+            <svg class="icon"><use xlink:href="#icon-mix"></use></svg>
+        </a>
+        {% endif %}
       {% if site.linkedin_username %}
         <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
           <svg><use xlink:href="#icon-linkedin"></use></svg>
