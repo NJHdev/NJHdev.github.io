@@ -11,7 +11,7 @@ tags:
   - music
   - midi
   - ccm
-author: njhdev
+author: NJHDev
 paginate: true
 ---
 
