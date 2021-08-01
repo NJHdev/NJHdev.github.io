@@ -61,7 +61,7 @@
 }
 
 ::-webkit-scrollbar-track {
-    background: rgbargba(0, 0, 0, 0.2);
+    background: transparent;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -71,8 +71,4 @@
 
 ::-webkit-scrollbar-thumb:hover {
     background: rgb(110, 110, 110);
-}
-
-::-webkit-scrollbar-track-piece {
-    background: rgbargba(0, 0, 0, 0.2);
 }
