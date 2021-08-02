@@ -25,11 +25,16 @@
           <svg><use xlink:href="#icon-instagram"></use></svg>
         </a>
       {% endif %}
-        {% if site.instagram2_username %}
+      {% if site.instagram2_username %}
         <a href="https://www.instagram.com/{{ site.instagram2_username }}" title="Instagram">
             <svg><use xlink:href="#icon-instagram"></use></svg>
         </a>
-        {% endif %}
+      {% endif %}
+      {% if site.youtube_channel_id %}
+        <a href="https://www.youtube.com/channel/{{ site.youtube_channel_id }}" title="Youtube">
+            <svg><use xlink:href="#icon-youtube"></use></svg>
+        </a>
+      {% endif %}
       {% if site.linkedin_username %}
         <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
           <svg><use xlink:href="#icon-linkedin"></use></svg>
