@@ -1,91 +1,21 @@
+  
+---
+---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for post in site.posts %}
+    <url>
+        <loc>{{ site.url }}{{ post.url | remove: 'index.html' }}</loc>
+    </url>
+    {% endfor %}
 
-
-<url>
-  <loc>https://njhdev.github.io/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/about/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/contact/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/welcome/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/category/flute/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/5_remember_me/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/tags/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/4_things_we_took_for_granted/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/category/midi/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/2_dont_be_afraid/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/1_you_still_love_me/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/2_your_day/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/3_love_poem/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/1_speechless/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/category/blog/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://njhdev.github.io/authors/njhdev/</loc>
-  <lastmod>2021-08-02T07:16:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+    {% for page in site.pages %}
+    {% if page.layout != nil %}
+    {% if page.layout != 'feed' %}
+    <url>
+        <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
+    </url>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
 </urlset>
