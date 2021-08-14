@@ -20,6 +20,6 @@ Speechless 커버하기
 
 처음이라 그런지 개망했닼ㅋㅋㅋ
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DSI9mmwKOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/4DSI9mmwKOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Recording Date. 2019.07.18
