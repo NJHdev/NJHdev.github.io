@@ -29,7 +29,7 @@ paginate: true
 1월에 녹음을 끝내고 영상까지 찍고 싶어 영상찍고 편집해서 올려야지!라고 마음을 먹었지만 미루고 미루다가 결국 포기하고 음원만 올리게 되었다...ㅎ
 
 
-<iframe width="1280" height="721" src="https://www.youtube.com/embed/L32tyDT_3c8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/L32tyDT_3c8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>코로나 빨리 끝나서 가사처럼 우리가 힘껏 웃을 수 있는 그날이 왔으면 좋겠다...ㅠ😭ㅠ
 <br/>마음껏 놀고 싶어...!!!!
