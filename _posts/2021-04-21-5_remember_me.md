@@ -15,7 +15,7 @@ paginate: true
 ---
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/sNuVjKoGXQQ?rel=0;amp;autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/sNuVjKoGXQQ?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 갑자기 떠오른 코코 ost 'Remember Me'
 
