@@ -14,6 +14,8 @@ author: NJHDev
 paginate: true
 ---
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/L32tyDT_3c8?rel=0;amp;autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 어느날 유튜브 알고리즘에 의해 듣게 되었던 곡이었다.
 
 코로나로 인해 지치고 마음이 복잡한 날들을 표현하고 희망을 꿈꾸는 그러한 가사들...
@@ -27,9 +29,6 @@ paginate: true
 그리고 처음으로 화음편곡을 하여 화음도 손수 녹음해보았다.
 
 1월에 녹음을 끝내고 영상까지 찍고 싶어 영상찍고 편집해서 올려야지!라고 마음을 먹었지만 미루고 미루다가 결국 포기하고 음원만 올리게 되었다...ㅎ
-
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/L32tyDT_3c8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>코로나 빨리 끝나서 가사처럼 우리가 힘껏 웃을 수 있는 그날이 왔으면 좋겠다...ㅠ😭ㅠ
 <br/>마음껏 놀고 싶어...!!!!
