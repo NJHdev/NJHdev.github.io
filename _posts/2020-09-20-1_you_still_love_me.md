@@ -32,7 +32,7 @@ paginate: true
 
 계속 하다보면 언젠가는 원곡과 비교 못할 정도의 곡이 한개쯤은 나오겠지...
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/TsDi2NO-X_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/TsDi2NO-X_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {Credit}
 <br/>MidiPrograming_H.namju
