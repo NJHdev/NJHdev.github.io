@@ -15,6 +15,9 @@ author: NJHDev
 paginate: true
 ---
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/TsDi2NO-X_k?rel=0;amp;autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 제이어스 You Still Love Me 음원 카피!
 
 <br/>
@@ -31,8 +34,6 @@ paginate: true
 하지만 아쉬운 점은.. 원곡과 비교가 너무 잘 되고 , 음색이 너무 많이 차이 난다...ㅠㅠㅠ
 
 계속 하다보면 언젠가는 원곡과 비교 못할 정도의 곡이 한개쯤은 나오겠지...
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/TsDi2NO-X_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {Credit}
 <br/>MidiPrograming_H.namju
