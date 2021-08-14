@@ -30,7 +30,7 @@ paginate: true
 (점점 어려워 지고 심오해져도.. 난 재밌어..!)
 
 
-<iframe width="1180" height="664" src="https://www.youtube.com/embed/Bw237mgHCRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Bw237mgHCRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 {Credit}
