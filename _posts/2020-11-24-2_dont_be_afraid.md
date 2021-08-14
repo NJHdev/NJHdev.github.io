@@ -15,6 +15,9 @@ author: NJHDev
 paginate: true
 ---
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Bw237mgHCRE?rel=0;amp;autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 자기 전에 심심해서... 눈앞에 보이던 찬양 악보 혼자서 뚱땅뚱땅 하다가 탄생한 미디밴드
 
 이것저것치다보니 욕심생겨서 이억기 저악기 추가하다보니... 이렇게 탄생했닼ㅋㅋ
@@ -28,10 +31,6 @@ paginate: true
 역시 미디/레코딩 독학은 재밌옿ㅎㅎㅎㅎ
 
 (점점 어려워 지고 심오해져도.. 난 재밌어..!)
-
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Bw237mgHCRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 {Credit}
 <br/>MidiPrograming_H.namju
