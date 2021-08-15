@@ -15,7 +15,7 @@ author: NJHDev
 paginate: true
 ---
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/TsDi2NO-X_k?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="864" height="486" src="https://www.youtube.com/embed/TsDi2NO-X_k?autoplay=1&rel=0&modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 제이어스 You Still Love Me 음원 카피!
