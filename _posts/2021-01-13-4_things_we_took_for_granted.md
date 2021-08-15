@@ -14,7 +14,7 @@ author: NJHDev
 paginate: true
 ---
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/L32tyDT_3c8?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="864" height="486" src="https://www.youtube.com/embed/L32tyDT_3c8?autoplay=1&rel=0&modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 어느날 유튜브 알고리즘에 의해 듣게 되었던 곡이었다.
 
