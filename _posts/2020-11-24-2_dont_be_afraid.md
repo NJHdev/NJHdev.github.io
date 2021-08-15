@@ -15,7 +15,7 @@ author: NJHDev
 paginate: true
 ---
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Bw237mgHCRE?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="864" height="486" src="https://www.youtube.com/embed/Bw237mgHCRE?autoplay=1&rel=0&modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 자기 전에 심심해서... 눈앞에 보이던 찬양 악보 혼자서 뚱땅뚱땅 하다가 탄생한 미디밴드
