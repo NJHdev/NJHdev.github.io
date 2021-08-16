@@ -1,6 +1,6 @@
 ## Release notes
 21.07.31 - 사이트 개편
-         - 모든 게시물 이동
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 모든 게시물 이동
 
 21.08.01 - 스크롤바 디자인 변경
 
