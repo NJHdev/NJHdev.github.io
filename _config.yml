@@ -103,5 +103,11 @@ exclude: [
   'README.md'
 ]
 
+category: [
+  'flute',
+  'midi',
+  'blog'
+]
+
 # Theme
 version: 
