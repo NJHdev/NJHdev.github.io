@@ -1,4 +1,4 @@
-## Release otes
+## Release Notes
 21.07.31 - 사이트 개편
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 모든 게시물 이동
 
