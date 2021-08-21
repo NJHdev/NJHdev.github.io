@@ -41,7 +41,7 @@
 <details close>
   <summary>Aug. 21, 2021</summary>
     <ol>
-      <li>Contact탭 Comming Soon</li>
+      <li>Contact탭 Comming Soon / 기능에 수정사항이 발견되어 잠시 쉬어갑니다. 추후 다시 오픈하겠습니다.</li>
       <li>우클릭 방지</li>
     </ol>
 </details>
