@@ -37,3 +37,11 @@
       <li>index 페이지 디자인</li>
     </ol>
 </details>
+
+<details close>
+  <summary>Aug. 21, 2021</summary>
+    <ol>
+      <li>Contact탭 Comming Soon</li>
+      <li>우클릭 방지</li>
+    </ol>
+</details>
