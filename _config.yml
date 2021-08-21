@@ -16,6 +16,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - title: Tags
+    url: /tags
 email: mark0112@naver.com
 # See: https://disqus.com/
 disqus_username: 
