@@ -57,14 +57,14 @@ const dictionary = {
   {{ site.translations.contact.errors.locale | default: 'en' }}: {
     custom: {
       name: {
-        required: "{{ site.translations.contact.errors.empty_name | default: 'Name is required' }}"
+        required: "{{ site.translations.contact.errors.empty_name | default: '필수 요소입니다!' }}"
       },
       email: {
-        required: "{{ site.translations.contact.errors.empty_email | default: 'Email is required' }}",
-        email: "{{ site.translations.contact.errors.invalid_email | default: 'Email is invalid' }}"
+        required: "{{ site.translations.contact.errors.empty_email | default: '필수 요소입니다!' }}",
+        email: "{{ site.translations.contact.errors.invalid_email | default: '올바르지 않은 이메일 주소입니다. 다시한번 확인해주세요!' }}"
       },
       message: {
-        required: "{{ site.translations.contact.errors.empty_message | default: 'Message is required' }}"
+        required: "{{ site.translations.contact.errors.empty_message | default: '필수 요소입니다!' }}"
       }
     }
   }
