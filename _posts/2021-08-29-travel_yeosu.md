@@ -21,14 +21,14 @@ paginate: true
 ## 8월 24일
 여행 당일. 이번 여행을 가기까지 많은 시행착오가 있었다.
 그리고 그런 시행착오들 끝에 출발을 하게 되었다.
-<img src="./assets/img/posts/yeosu/1.jpg">
+<img src="https://njhdev.github.io/assets/img/posts/yeosu/1.jpg">
 하지만 날씨는 매우 흐리다.
 많은 걱정을 하고 이륙!
-<img src="./assets/img/posts/yeosu/2.jpg">
+<img src="https://njhdev.github.io/assets/img/posts/yeosu/2.jpg">
 다행히 이륙을 하고 나니 하늘은 매우 맑았다.
-<img src="./assets/img/posts/yeosu/3.jpg">
+<img src="https://njhdev.github.io/assets/img/posts/yeosu/3.jpg">
 그리고 여수에 착륙!
-<img src="./assets/img/posts/yeosu/4.jpg">
+<img src="https://njhdev.github.io/assets/img/posts/yeosu/4.jpg">
 다시 날씨가 흐려지네..?
 
 일단 우리의 1번째 목적지
@@ -36,20 +36,20 @@ paginate: true
 
 2번째 목적지 종화동다방!
 역시 기승전 카페지~
-<img src="./assets/img/posts/yeosu/5.jpg">
-<img src="./assets/img/posts/yeosu/6.jpg">
+<img src="https://njhdev.github.io/assets/img/posts/yeosu/5.jpg">
+<img src="https://njhdev.github.io/assets/img/posts/yeosu/6.jpg">
 레트로 느낌의 카페인데 특히 생과일 파르페 진짜 맛있다!
 (개인적으로 치즈케잌은 별로..)
 
 호텔로 들어가서 바라본 바다뷰
 <오후 시간쯤>
-<img src="./assets/img/posts/yeosu/7.jpg">
+<img src="https://njhdev.github.io/assets/img/posts/yeosu/7.jpg">
 
 <야경>
-<img src="./assets/img/posts/yeosu/8.jpg">
+<img src="https://njhdev.github.io/assets/img/posts/yeosu/7.jpg/assets/img/posts/yeosu/8.jpg">
 
 그리고 첫날 밤에 처음 먹어본 여수 소주 "여수 밤바다"
-<img src="./assets/img/posts/yeosu/9.jpg">
+<img src="https://njhdev.github.io/assets/img/posts/yeosu/7.jpg/assets/img/posts/yeosu/9.jpg">
 처음 먹었을 땐 생각보다 많이 약하다고 생각했다.
 하지만, 목은 점점 타들어갔고 알고보니 도수는 "16.9%"
 
