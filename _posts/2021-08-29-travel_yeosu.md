@@ -42,10 +42,10 @@ paginate: true
 (개인적으로 치즈케잌은 별로..)
 
 호텔로 들어가서 바라본 바다뷰
-<오후 시간쯤>
+\<오후 시간쯤\>
 <img src="https://njhdev.github.io/assets/img/posts/yeosu/7.jpg">
 
-<야경>
+\<야경\>
 <img src="https://njhdev.github.io/assets/img/posts/yeosu/7.jpg/assets/img/posts/yeosu/8.jpg">
 
 그리고 첫날 밤에 처음 먹어본 여수 소주 "여수 밤바다"
