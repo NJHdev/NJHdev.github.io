@@ -16,7 +16,7 @@ paginate: true
 
 ## 8/24~8/26 여수 여행
 
-<a href="#8월 24일" style="color:blue">1일차</a></li>
+<a href="#8월 24일" style="color:blue">1일차</a>
 
 ## 8월 24일
 여행 당일. 이번 여행을 가기까지 많은 시행착오가 있었다.
