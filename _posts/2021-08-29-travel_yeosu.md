@@ -46,12 +46,13 @@ paginate: true
 <img src="https://njhdev.github.io/assets/img/posts/yeosu/7.jpg">
 
 \<야경\>
-<img src="https://njhdev.github.io/assets/img/posts/yeosu/7.jpg/assets/img/posts/yeosu/8.jpg">
+<img src="https://njhdev.github.io/assets/img/posts/yeosu/8.jpg">
 
 그리고 첫날 밤에 처음 먹어본 여수 소주 "여수 밤바다"
-<img src="https://njhdev.github.io/assets/img/posts/yeosu/7.jpg/assets/img/posts/yeosu/9.jpg">
+<img src="https://njhdev.github.io/assets/img/posts/yeosu/9.jpg">
 처음 먹었을 땐 생각보다 많이 약하다고 생각했다.
-하지만, 목은 점점 타들어갔고 알고보니 도수는 "16.9%"
+하지만, 목은 점점 타들어갔고 
+알고보니 도수는 "16.9%"
 
 이렇게 첫째날이 마무리 되었다.
 
