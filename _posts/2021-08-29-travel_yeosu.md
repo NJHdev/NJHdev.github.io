@@ -1,4 +1,20 @@
-﻿## 8/24~8/26 여수 여행
+---
+date: 2021-08-29T00:00:00.000Z
+layout: post
+title: 8/24~8/26 여수 여행
+subtitle: Travel Yeosu
+description: 
+image: https://njhdev.github.io/assets/img/posts/yeosu/7.jpg
+optimized_image: 
+category: blog
+tags:
+  - blog
+  - travel
+author: NJHDev
+paginate: true
+---
+
+## 8/24~8/26 여수 여행
 
 <a href="#8월 24일" style="color:blue">1일차</a></li>
 
