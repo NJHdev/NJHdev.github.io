@@ -14,8 +14,6 @@ author: NJHDev
 paginate: true
 ---
 
-## 8/24~8/26 여수 여행
-
 <a href="#8월 24일" style="color:blue">1일차</a>
 
 ## 8월 24일
