@@ -18,7 +18,7 @@ paginate: true
 
 ## 8월 24일
 여행 당일. 이번 여행을 가기까지 많은 시행착오가 있었다.
-그리고 그런 시행착오들 끝에 출발을 하게 되었다.
+<br/>그리고 그런 시행착오들 끝에 출발을 하게 되었다.
 <img src="https://njhdev.github.io/assets/img/posts/yeosu/1.jpg">
 하지만 날씨는 매우 흐리다.
 많은 걱정을 하고 이륙!
@@ -37,7 +37,7 @@ paginate: true
 <img src="https://njhdev.github.io/assets/img/posts/yeosu/5.jpg">
 <img src="https://njhdev.github.io/assets/img/posts/yeosu/6.jpg">
 레트로 느낌의 카페인데 특히 생과일 파르페 진짜 맛있다!
-(개인적으로 치즈케잌은 별로..)
+(개인적으로 치즈케이크은 별로..)
 
 호텔로 들어가서 바라본 바다뷰
 \<오후 시간쯤\>
