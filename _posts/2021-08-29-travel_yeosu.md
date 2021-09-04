@@ -50,7 +50,8 @@ paginate: true
 <img src="https://njhdev.github.io/assets/img/posts/yeosu/9.jpg">
 처음 먹었을 땐 생각보다 많이 약하다고 생각했다.
 하지만, 목은 점점 타들어갔고 
-알고보니 도수는 "16.9%"
+<br/>알고보니 도수는 "16.9%"
+<br/><a href="https://namu.wiki/w/%EC%8D%A8%EB%A8%B8%EC%8A%A4%EB%B9%84%20%EC%82%AC%EC%9D%B4%EB%8B%A4">써머스비</a>써머스비만 먹어오던 나에겐 너무 높은 술이었다.
 
 이렇게 첫째날이 마무리 되었다.
 
