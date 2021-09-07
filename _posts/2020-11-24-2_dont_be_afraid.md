@@ -4,7 +4,7 @@ layout: post
 title: 아무것도 두려워 말라
 subtitle: 'Dont Be Afraid One Man Midi Band'
 description: 
-image: https://njhdev.github.io/assets/img/posts/midi/dont_be_afraid.jpg
+image: https://github.com/NJHDev2/njhdev_post/blob/main/midi/dont_be_afraid.jpg?raw=true
 optimized_image: 
 category: midi
 tags:
