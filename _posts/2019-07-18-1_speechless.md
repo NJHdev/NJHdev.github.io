@@ -4,7 +4,7 @@ layout: post
 title: 알라딘 Speechless 플룻 커버
 subtitle: '(Aladdin Speechless Flute cover by NJH)'
 description: 
-image: https://njhdev.github.io/assets/img/posts/flute/speechless.png
+image: https://github.com/NJHDev2/njhdev_post/blob/main/flute/speechless.png?raw=true
 optimized_image: 
 category: flute
 tags:
