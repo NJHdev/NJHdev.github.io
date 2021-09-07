@@ -21,6 +21,7 @@
 .flex-grid {
   display: flex;
   flex-flow: row wrap;
+  overflow-x: auto;
 }
 
 .title-category {
