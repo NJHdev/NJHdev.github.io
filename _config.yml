@@ -18,6 +18,8 @@ menu:
     url: /contact
   - title: Tags
     url: /tags
+  - title: Release note
+    url: /release
 email: mark0112@naver.com
 # See: https://disqus.com/
 disqus_username: 
