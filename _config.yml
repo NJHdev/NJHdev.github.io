@@ -10,15 +10,15 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: 🏠Home
     url: /
-  - title: About
+  - title: 🤹‍♂️About
     url: /about
-  - title: Contact
+  - title: 📞Contact
     url: /contact
-  - title: Tags
+  - title: 📌Tags
     url: /tags
-  - title: Release notes
+  - title: 📝Release notes
     url: /release
 email: mark0112@naver.com
 # See: https://disqus.com/
