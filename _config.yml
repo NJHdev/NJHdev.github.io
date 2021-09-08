@@ -20,6 +20,17 @@ menu:
     url: /tags
   - title: 📝Release notes
     url: /release
+footermenu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Tags
+    url: /tags
+  - title: Release notes
+    url: /release
 email: mark0112@naver.com
 # See: https://disqus.com/
 disqus_username: 
