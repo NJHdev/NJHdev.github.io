@@ -1,0 +1,9 @@
+<ul>
+  {% for item in site.footermenu %}
+    {% if item.title and item.url %}
+      <li>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}" target="_self">{{ item.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
