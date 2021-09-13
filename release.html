@@ -4,281 +4,31 @@ title: Release Notes
 permalink: /release/
 published: true
 ---
-
-<!--Release CSS-->
-<style>
-    @font-face {
-        font-family: 'IM_Hyemin-Bold';
-        src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Bold.woff2') format('woff');
-    }
-    body {
-        font-family: 'IM_Hyemin-Bold', sans-serif;
-        background: #fafafa;
-    }
-
-    h4 {
-        font-size: 1.2em;
-        text-align: center;
-        padding: 0 0 30px 0;
-    }
-    .timeline {
-        list-style: none;
-        padding: 20px 0 20px;
-        position: relative;
-    }
-    .timeline:before {
-        top: 0;
-        bottom: 0;
-        position: absolute;
-        content: "";
-        width: 3px;
-        background-color: #d9d9d9;
-        margin-left: -1.5px;
-        left: 20px;
-    }
-    @media (min-width: 576px) {
-        .timeline:before {
-            left: 50%;
-        }
-    }
-    .timeline > li {
-        margin-bottom: 20px;
-        position: relative;
-        padding-left: 55px;
-    }
-    .timeline > li:after, .timeline > li:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
-    .timeline > li .panel {
-        width: 100%;
-        float: left;
-        border-radius: 3px;
-        overflow: hidden;
-        position: relative;
-        background: #fff;
-        box-shadow: 1px 2px 80px 0 rgba(0, 0, 0, 0.1);
-    }
-    .timeline > li .panel summary {
-        display: block;
-        user-select: none;
-        outline: none;
-        padding: 20px;
-        margin-bottom: 0px;
-        transition: all 600ms cubic-bezier(0.23, 1, 0.32, 1);
-        transition-property: margin, background;
-        font-weight: 800;
-        color:red;
-    }
-    .timeline > li .panel summary::-webkit-details-marker {
-        display: none;
-    }
-    .timeline > li .panel summary:hover {
-        background: rgba(0, 0, 0, 0.1);
-    }
-    .timeline > li .panel p {
-        padding: 0 20px 10px;
-    }
-    .timeline > li .panel[open] summary {
-        margin-bottom: 20px;
-        padding-bottom: 20px;
-        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-    }
-    @media (min-width: 576px) {
-        .timeline > li {
-            padding-left: 0px;
-        }
-        .timeline > li .panel {
-            width: 50%;
-        }
-        .timeline > li:not(:nth-child(even)) {
-            padding-right: 90px;
-        }
-        .timeline > li:nth-child(even) {
-            padding-left: 90px;
-        }
-        .timeline > li:nth-child(even) > :nth-child(even) {
-            float: right;
-        }
-    }
-    .timeline > li > .icon {
-        color: #d9d9d9;
-        width: 50px;
-        height: 50px;
-        line-height: 50px;
-        font-size: 2.5em;
-        text-align: center;
-        position: absolute;
-        left: 20px;
-        margin-left: -25px;
-        background-color: #fafafa;
-        z-index: 999;
-        border-radius: 50%;
-        font-family: FontAwesome;
-    }
-    .timeline > li > .icon:before {
-        content: "\f192";
-    }
-    @media (min-width: 576px) {
-        .timeline > li > .icon {
-            left: 50%;
-        }
-    }
-    .timeline > li > .icon.done {
-        color: #23b5af;
-    }
-    .timeline > li > .icon.done:before {
-        content: "\f058";
-    }
-    .timeline > li > .icon.working {
-        color: #eeba4c;
-    }
-    .timeline > li > .icon.working:before {
-        content: "\f017";
-    }
-
-</style>
-
-
 <body>
-
     <div class="container">
         <h4 style="color:Blue; font-weight: bold;">클릭하시면 자세히 볼 수 있습니다!</h4>
         <ul class="timeline">
+            {% for event in site.data.release %}
+                <li class="timeline">
+                    <div class="icon done"></div>
+                    <details class="panel">
+                        <summary>{{event.date}}</summary>
+                        <ol>
+                            {% if event.lists %}
+                                {% for list in event.lists %}
+                                    <li>{{list.list}}</li>
+                                {% endfor %}
+                            {% endif %}
 
-            <!--Jul. 31, 2021-->
-            <li class="timeline">
-                <div class="icon done"></div>
-                <details class="panel">
-                    <summary>Jul. 31, 2021</summary>
-                    <ol>
-                        <li>사이트 개편</li>
-                        <li>모든 게시물 이동</li>
-                    </ol>
-                </details>
-            </li>
-
-            <!--Aug. 01, 2021-->
-            <li class="timeline">
-                <div class="icon done"></div>
-                <details class="panel">
-                    <summary style="color:red;">Aug. 01, 2021</summary>
-                    <ol>
-                        <li>스크롤바 디자인 변경</li>
-                    </ol>
-                </details>
-            </li>
-
-            <!--Aug. 11, 2021-->
-            <li class="timeline">
-                <div class="icon done"></div>
-                <details class="panel">
-                    <summary>Aug. 11, 2021</summary>
-                    <ol>
-                        <li>Sitemap 적용</li>
-                    </ol>
-                </details>
-            </li>
-
-            <!--Aug. 14, 2021-->
-            <li class="timeline">
-                <div class="icon done"></div>
-                <details class="panel">
-                    <summary>Aug. 14, 2021</summary>
-                    <ol>
-                        <li>사이트 메인 이미지 변경</li>
-                        <li>포스트 별 영상 오류 수정</li>
-                    </ol>
-                </details>
-            </li>
-
-            <!--Aug. 16, 2021-->
-            <li class="timeline">
-                <div class="icon done"></div>
-                <details class="panel">
-                    <summary>Aug. 16, 2021</summary>
-                    <ol>
-                        <li>카테고리 페이지 수정</li>
-                        <li>index 페이지 디자인</li>
-                    </ol>
-                </details>
-            </li>
-
-            <!--Aug. 21, 2021-->
-            <li class="timeline">
-                <div class="icon done"></div>
-                <details class="panel">
-                    <summary>Aug. 21, 2021</summary>
-                    <ol>
-                        <p>1. Contact탭 Comming Soon</p>
-                        <p>기능에 수정사항이 발견되어 잠시 쉬어갑니다.</p>
-                        <p>추후 다시 오픈하겠습니다.</p>
-                        <p>2. 우클릭 방지</p>
-                    </ol>
-                </details>
-            </li>
-
-            <!--Aug. 28, 2021-->
-            <li class="timeline">
-                <div class="icon done"></div>
-                <details class="panel">
-                    <summary>Aug. 28, 2021</summary>
-                    <ol>
-                        <li>Contact탭 Open
-                    </ol>
-                </details>
-            </li>
-
-            <!--Sep. 07, 2021-->
-            <li class="timeline">
-                <div class="icon done"></div>
-                <details class="panel">
-                    <summary>Sep. 07, 2021</summary>
-                    <ol>
-                        <li>Release Notes 탭 개설
-                    </ol>
-                </details>
-            </li>
-
-            <!--Sep. 08, 2021-->
-            <li class="timeline">
-                <div class="icon done"></div>
-                <details class="panel">
-                    <summary>Sep. 08, 2021</summary>
-                    <ol>
-                        <p>1. 메인페이지 글 가로정렬로 수정</p>
-                        <p>2. 가로 스크롤 기능 추가</p>
-                            <ul>
-                                <li>가로스크롤 기능으로 편안하게 보실 수 있습니다!
-                                <li>마우스의 경우 가로 스크롤이 힘든 단점이 있어 클릭 후 드래그하시면 스크롤이 가능합니다!
-                            </ul>
-                                    <p> &lt;&lt;주의사항&gt;&gt; </p>
-                                    <ul style="list-style-type: none; margin:0; padding:0;">
-                                        <li>클릭하여 드래그 하실 경우 일정량 이상 드래그를 하지 않을 경우 포스트 클릭으로 인식됩니다.
-                                        <li>따라서, 포스트 한개 너비 정도의 드래그를 권장합니다!!
-                                    </ul>
-                    </ol>
-                </details>
-            </li>
-
-            <!--Sep. 10, 2021-->
-            <li class="timeline">
-                <div class="icon done"></div>
-                <details class="panel">
-                    <summary>Sep. 10, 2021</summary>
-                    <ol>
-                        <li>글쓰기 버튼 추가
-                            <p> &lt;&lt;추가 설명&gt;&gt; </p>
-                            <ul style="list-style-type: none; margin:0; padding:0;">
-                                <li>해당 버튼은 관리자를 위한 버튼이며 관련 계정으로 로그인 하지 않을 경우 사용할 수 없습니다.
-                                <li>하지만, 관리자가 권한을 부여할 경우 작성이 가능합니다.
-                            </ul>
-                    </ol>
-                </details>
-            </li>
-
+                            {% if event.paragraphs %}
+                                {% for paragraph in event.paragraphs %}
+                                    <p>{{paragraph.paragraph}}</p>
+                                {% endfor %}
+                            {% endif %}
+                        </ol>
+                    </details>
+                </li>
+            {% endfor %}
         </ul>
     </div>
-
 </body>
