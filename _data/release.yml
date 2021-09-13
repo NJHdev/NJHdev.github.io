@@ -1,0 +1,73 @@
+# Grammar
+# - date: 날짜(월.일.년도)
+#   lists:
+#     - list: 리스트1
+#     - list: 리스트2
+#     - list: 리스트3
+#     - list: 리스트4
+#   paragraphs:
+#     - paragraph: 내용1
+#     - paragraph: 내용2
+#     - paragraph: 내용3
+#     - paragraph: 내용4
+
+- date: Jul. 31, 2021
+  lists:
+     - list: 사이트 개편
+     - list: 모든 게시물 이동
+
+- date: Aug. 01, 2021
+   lists:
+     - list: 스크롤바 디자인 변경
+
+- date: Aug. 11, 2021
+   lists:
+     - list: Sitemap 적용
+
+- date: Aug. 14, 2021
+   lists:
+     - list: 사이트 메인 이미지 변경
+     - list: 포스트 별 영상 오류 수정
+
+- date: Aug. 16, 2021
+   lists:
+     - list: 카테고리 페이지 수정
+     - list: index 페이지 디자인
+
+- date: Aug. 16, 2021
+   lists:
+     - list: 카테고리 페이지 수정
+     - list: index 페이지 디자인
+
+- date: Aug. 21, 2021
+   paragraphs:
+     - paragraph: 1. Contact탭 Comming Soon
+     - paragraph: 기능에 수정사항이 발견되어 잠시 쉬어갑니다.
+     - paragraph: 추후 다시 오픈하겠습니다.
+     - paragraph: 2. 우클릭 방지
+
+- date: Aug. 28, 2021
+   lists:
+     - list: Contact탭 Open
+
+- date: Sep. 07, 2021
+   lists:
+     - list: Release Notes 탭 개설
+
+- date: Sep. 08, 2021
+   paragraphs:
+     - paragraph: 1. 메인페이지 글 가로정렬로 수정
+     - paragraph: 2. 가로 스크롤 기능 추가
+     - paragraph: 가로스크롤 기능으로 편안하게 보실 수 있습니다!
+     - paragraph: 마우스의 경우 가로 스크롤이 힘든 단점이 있어 클릭 후 드래그하시면 스크롤이 가능합니다!
+     - paragraph: &lt;&lt;주의사항&gt;&gt;
+     - paragraph: 1. 클릭하여 드래그 하실 경우 일정량 이상 드래그를 하지 않을 경우 포스트 클릭으로 인식됩니다.
+     - paragraph: 2. 따라서, 포스트 한개 너비 정도의 드래그를 권장합니다!!
+
+- date: Sep. 10, 2021
+   lists:
+     - list: 글쓰기 버튼 추가
+   paragraphs:
+     - paragraph: &lt;&lt;추가 설명&gt;&gt;
+     - paragraph: 해당 버튼은 관리자를 위한 버튼이며 관련 계정으로 로그인 하지 않을 경우 사용할 수 없습니다.
+     - paragraph: 하지만, 관리자가 권한을 부여할 경우 작성이 가능합니다.
