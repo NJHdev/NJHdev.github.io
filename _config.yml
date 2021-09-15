@@ -114,8 +114,8 @@ exclude: [
   'Gemfile.lock',
   'gulpfile.js',
   'README.md',
-  'admin',
-  'googledd225d9d59309ea3.html'
+  'admin'
+  'googledd225d9d59309ea3.html',
   'naver759c7acd1e7f25d5f3a5c1d72aef2301.html'
 ]
 
