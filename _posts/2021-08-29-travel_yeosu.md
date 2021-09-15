@@ -1,8 +1,8 @@
 ---
 date: 2021-08-29T00:00:00.000Z
 layout: post
-title: 8/24~8/26 여수 여행
-subtitle: Travel Yeosu
+title: 여수 여행 Day1
+subtitle: Travel Yeosu Day1
 description: 
 image: https://github.com/NJHDev2/njhdev_post/blob/main/yeosu/7.jpg?raw=true
 optimized_image: 
