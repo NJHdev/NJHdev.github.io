@@ -8,6 +8,7 @@
             </button>
         </div>
     </div>
+    <!--
     {% if page.next %}
         {% assign recommendation = page.next %}
     {% else %}
@@ -15,6 +16,10 @@
         {% assign shuffled_array = next_posts | shuffle %}
         {% assign recommendation = shuffled_array.first %}
     {% endif %}
+    -->
+    {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
+    {% assign shuffled_array = next_posts | shuffle %}
+    {% assign recommendation = shuffled_array.first %}
     <a href="{{ recommendation.url | prepend: site.baseurl }}" class="post-preview">
         <div class="image">
             {% if recommendation.optimized_image %}
