@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Flute
-slug: flute
+title: Welcome
+slug: welcome
 description: A category for general blog posts.
 ---
