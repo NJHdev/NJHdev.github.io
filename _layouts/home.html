@@ -17,8 +17,7 @@ layout: main
 <main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
-        {% assign featured = posts.first %}
-        <section class="hero" style="background-image: url({{ featured.image }})">
+        <section class="hero" style="background-image: url(https://github.com/NJHDev2/njhdev_post/blob/main/blog-cover.png?raw=true)">
             <!--<div class="pixels"></div>-->
             <div class="gradient"></div>
             <div class="content">
@@ -31,10 +30,10 @@ layout: main
                     {% endif %}
                 </time>
 	        -->
-                <h1 class="title">{{ featured.title }}</h1>
-                <p class="description">{{ featured.subtitle }}</p>
+                <h1 class="title">Welcome to NJH Blog</h1>
+                <p class="description">NJH Blog에 오신 것을 환영합니다!</p>
                 <div class="buttons">
-                    <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
+                    <a href="{{ site.baseurl }}/welcome" role="button" class="button">
                         <svg><use xlink:href="#icon-read"></use></svg>
                         <span>{{ site.translations.button.read_now | default: "Read Now" }}</span>
                     </a>
