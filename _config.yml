@@ -121,6 +121,7 @@ exclude: [
 
 category: [
   'flute',
+  'music',
   'midi',
   'blog'
 ]
