@@ -71,7 +71,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_post_btn: true
+show_post_btn: false
 use_logo: false
 
 # Content paginator
