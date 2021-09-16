@@ -120,8 +120,8 @@ exclude: [
 ]
 
 category: [
-  'flute',
   'music',
+  'flute',
   'midi',
   'blog'
 ]
