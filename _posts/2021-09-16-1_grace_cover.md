@@ -1,8 +1,8 @@
 ---
 date: 2021-09-16T00:00:00.000Z
 layout: post
-title: 손경민-은혜 보컬 커버
-subtitle: 'Kyungmin-Grace Vocal Cover'
+title: 손경민-은혜 Cover by Mingdi
+subtitle: 'Kyungmin-Grace Cover by Mingdi'
 description: 
 image: https://github.com/NJHDev2/njhdev_post/blob/main/music/grace_cover.jpg?raw=true
 optimized_image: 
