@@ -18,7 +18,7 @@ paginate: true
 
 
 {Credit}
-<br/>Vocal_ Mingdi
+<br/>Vocal_ [`Mingdi`](https://www.instagram.com/mingdi_24/)
 <br/>Inst_ [`손경민 (Official)`](https://youtu.be/wCuXlEOUKes)
 <br/>Mix_ NJH
 <br/>Mastering_ NJH&Ozone
