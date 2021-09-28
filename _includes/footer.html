@@ -35,6 +35,11 @@
             <svg><use xlink:href="#icon-youtube"></use></svg>
         </a>
       {% endif %}
+      {% if site.discord_invite_id %}
+        <a href="https://discord.gg/{{ site.discord_invite_id }}" title="Discord">
+            <svg><use xlink:href="#icon-discord"></use></svg>
+        </a>
+      {% endif %}
       {% if site.linkedin_username %}
         <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
           <svg><use xlink:href="#icon-linkedin"></use></svg>
