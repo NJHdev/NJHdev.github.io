@@ -18,5 +18,4 @@ paginate: true
 
 <img src="https://github.com/NJHDev2/njhdev_post/blob/main/sheet/%EC%A3%84%20%EB%A7%8E%EC%9D%80%20%EC%9D%B4%20%EC%84%B8%EC%83%81%EC%9D%80%20%EB%82%B4%20%EC%A7%91%20%EC%95%84%EB%8B%88%EB%84%A4.png?raw=true">
 
-<div class="cont_centrar" onclick=" btn_active()" > <p class="texto_centro">죄 많은 이 세상은 내 집 아니네.pdf</p>
 <button type="button" onclick="window.open('https://drive.google.com/file/d/1Cjm9-9_9OKIFtbAVcP1E1OIjk1RzW7Og/view?usp=sharing');"> 죄 많은 이 세상은 내 집 아니네.pdf </button>
