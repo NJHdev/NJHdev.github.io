@@ -7,6 +7,7 @@ description:
 image: https://github.com/NJHDev2/njhdev_post/blob/main/music/grace_cover.jpg?raw=true
 optimized_image: 
 category: music
+permalink: /music/grace_cover
 tags:
   - music
 author: NJHDev
