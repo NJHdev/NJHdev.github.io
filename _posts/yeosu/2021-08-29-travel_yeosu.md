@@ -7,6 +7,7 @@ description:
 image: https://github.com/NJHDev2/njhdev_post/blob/main/yeosu/7.jpg?raw=true
 optimized_image: 
 category: blog
+permalink: /blog/travel_yeosu
 tags:
   - blog
   - travel
