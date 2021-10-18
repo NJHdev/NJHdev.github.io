@@ -4,7 +4,7 @@ layout: post
 title: 손경민-은혜 Cover by Mingdi
 subtitle: 'Kyungmin-Grace Cover by Mingdi'
 description: 
-image: https://github.com/NJHDev2/njhdev_post/blob/main/example.jpeg?raw=true
+image: https://github.com/NJHDev2/njhdev_post/blob/main/music/grace_cover.jpg?raw=true
 optimized_image: 
 category: music
 permalink: /music/grace_cover
