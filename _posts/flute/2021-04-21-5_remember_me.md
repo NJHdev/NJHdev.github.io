@@ -7,6 +7,7 @@ description:
 image: https://github.com/NJHDev2/njhdev_post/blob/main/flute/remember_me.png?raw=true
 optimized_image: 
 category: flute
+permalink: /flute/remember_me
 tags:
   - music
   - flute
