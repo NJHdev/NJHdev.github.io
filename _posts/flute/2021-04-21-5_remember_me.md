@@ -4,7 +4,7 @@ layout: post
 title: 코코OST 'Remember me' 플룻 커버
 subtitle: 'COCO-Remember Me Flute Cover'
 description: 
-image: https://github.com/NJHDev2/njhdev_post/blob/main/example.jpeg?raw=true
+image: https://github.com/NJHDev2/njhdev_post/blob/main/flute/remember_me.png?raw=true
 optimized_image: 
 category: flute
 permalink: /flute/remember_me
