@@ -7,6 +7,7 @@ description:
 image: https://github.com/NJHDev2/njhdev_post/blob/main/flute/Things_We_Took_For_Granted.png?raw=true
 optimized_image: 
 category: flute
+permalink: /flute/things_we_took_for_granted
 tags:
   - music
   - flute
