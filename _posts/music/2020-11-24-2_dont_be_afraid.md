@@ -7,6 +7,7 @@ description:
 image: https://github.com/NJHDev2/njhdev_post/blob/main/midi/dont_be_afraid.jpg?raw=true
 optimized_image: 
 category: midi
+permalink: /midi/dont_be_afraid
 tags:
   - music
   - midi
