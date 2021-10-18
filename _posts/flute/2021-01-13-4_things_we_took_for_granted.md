@@ -4,7 +4,7 @@ layout: post
 title: 이적 - 당연한것들 플룻 커버
 subtitle: 'Lee Juck-Things We Took For Granted Flute Cover'
 description: 
-image: https://github.com/NJHDev2/njhdev_post/blob/main/flute/Things_We_Took_For_Granted.png?raw=true
+image: https://github.com/NJHDev2/njhdev_post/blob/main/example.jpeg?raw=true
 optimized_image: 
 category: flute
 permalink: /flute/things_we_took_for_granted
