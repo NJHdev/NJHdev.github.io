@@ -7,6 +7,7 @@ description:
 image: https://github.com/NJHDev2/njhdev_post/blob/main/midi/you_still_love_me.jpg?raw=true
 optimized_image: 
 category: midi
+permalink: /midi/you_still_love_me
 tags:
   - music
   - midi
