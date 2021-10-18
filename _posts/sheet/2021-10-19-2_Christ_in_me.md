@@ -7,7 +7,7 @@ description:
 image: hhttps://github.com/NJHDev2/njhdev_post/blob/main/sheet/%EA%B7%B8%EA%B0%80%20%EB%82%B4%20%EC%95%88%EC%97%90.png?raw=true
 optimized_image: 
 category: sheet
-permalink: /sheet/Christ in me
+permalink: /sheet/Christ_in_me
 tags:
   - music
   - sheet
