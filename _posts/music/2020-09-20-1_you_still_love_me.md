@@ -4,7 +4,7 @@ layout: post
 title: 제이어스 You Still Love Me 미디 커버
 subtitle: 'J-US - You Still Love Me Midi Cover'
 description: 
-image: https://github.com/NJHDev2/njhdev_post/blob/main/example.jpeg?raw=true
+image: https://github.com/NJHDev2/njhdev_post/blob/main/midi/you_still_love_me.jpg?raw=true
 optimized_image: 
 category: midi
 permalink: /midi/you_still_love_me
