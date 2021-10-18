@@ -7,6 +7,7 @@ description:
 image: https://github.com/NJHDev2/njhdev_post/blob/main/flute/speechless.png?raw=true
 optimized_image: 
 category: flute
+permalink: /flute/speechless
 tags:
   - music
   - flute
