@@ -1,5 +1,5 @@
 ---
-date: 2021-10-17T00:00:00.000Z
+date: 2021-10-19T00:00:00.000Z
 layout: post
 title: 그가 내 안에 | 제이어스 악보
 subtitle: ' Christ in me | J-US'
