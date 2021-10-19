@@ -1,5 +1,20 @@
 {% if site.disqus_username %}
 
+<style>
+    disqus_thread {
+  position: relative;
+}
+#disqus_thread:before {
+  content: "";
+  display: block;
+  height: 20px;
+  width: 80%;
+  position: relative;
+  bottom: -72px;
+  background: white; //replace with your background colour
+}
+</style>
+
 <section class="comments">
     <h3>{{ site.translations.text.comments | default: "Comments" }}</h3>
     <p class="post-subtitle">댓글 기능 사용방법 <i class="fa fa-arrow-circle-right"></i> <a href="https://njhdev.com/disqus/">|바로가기|</a></p>
