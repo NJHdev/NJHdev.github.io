@@ -7,7 +7,7 @@ description:
 image: https://github.com/NJHDev2/njhdev_post/blob/main/example.jpeg?raw=true
 optimized_image: 
 category: sheet
-permalink: /sheet/Go_and_make_disciples
+permalink: /sheet/go_and_make_disciples
 tags:
   - music
   - sheet
