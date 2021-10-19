@@ -7,7 +7,7 @@ description:
 image: https://github.com/NJHDev2/njhdev_post/blob/main/example.jpeg?raw=true
 optimized_image: 
 category: sheet
-permalink: /sheet/christ_in_me
+permalink: /sheet/lessed_be_the_rock
 tags:
   - music
   - sheet
