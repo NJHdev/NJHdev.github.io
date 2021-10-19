@@ -21,6 +21,6 @@ paginate: true
 
 <button class="downloadbtn" type="button" 
         onclick="window.open('https://drive.google.com/file/d/14p6VJKGJdLs-EXVMEh6GKm7v95gYtWxD/view?usp=sharing');">
-        <i class="fa fa-cloud-download"></i> 
+        <i class="fa fa-cloud-download"></i>
         Download 구원의 반석.pdf
 </button>
