@@ -7,7 +7,7 @@ description:
 image: https://github.com/NJHDev2/njhdev_post/blob/main/example.jpeg?raw=true
 optimized_image: 
 category: sheet
-permalink: /sheet/This_world_is_not_my_home
+permalink: /sheet/this_world_is_not_my_home
 tags:
   - music
   - sheet
