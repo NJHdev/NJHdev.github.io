@@ -20,7 +20,7 @@ paginate: true
 <img src="https://github.com/NJHDev2/njhdev_post/blob/main/sheet/%EA%B7%B8%EA%B0%80%20%EB%82%B4%20%EC%95%88%EC%97%90.png?raw=true">
 
 <button class="downloadbtn" type="button"
-        onclick="window.open('https://drive.google.com/file/d/1oHKrAC4gRV2J7ziOeZTl3ZZIefRx1Q_y/view?usp=sharing');">
+        onclick="window.open('https://drive.google.com/uc?export=download&id=1oHKrAC4gRV2J7ziOeZTl3ZZIefRx1Q_y');">
         <i class="fa fa-cloud-download"></i>
         Download 그가 내 안에.pdf
 </button>
