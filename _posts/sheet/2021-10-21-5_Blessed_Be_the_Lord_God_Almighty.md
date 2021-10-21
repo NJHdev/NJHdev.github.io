@@ -1,5 +1,5 @@
 ---
-date: 2021-10-121T00:00:00.000Z
+date: 2021-10-21T00:00:00.000Z
 layout: post
 title: 사랑하는 나의 아버지 | 어노인팅 악보
 subtitle: ' Blessed Be the Lord God Almighty | Anointing '
