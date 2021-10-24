@@ -20,7 +20,7 @@ paginate: true
 <img src="https://github.com/NJHDev2/njhdev_post/blob/main/sheet/%EA%B5%AC%EC%9B%90%EC%9D%98%20%EB%B0%98%EC%84%9D.png?raw=true" style="filter: drop-shadow(3px 3px 3px #000)">
 
 <button class="downloadbtn" type="button"
-        onclick="window.open('/download/sheet/Blessed_be_the_rock.md');">
+        onclick="window.open('/download/sheet/Blessed_be_the_rock');">
         <i class="fa fa-cloud-download"></i>
         Download 구원의 반석.pdf
 </button>
