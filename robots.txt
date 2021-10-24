@@ -16,3 +16,4 @@ User-agent: Googlebot-Image
 Disallow:
 
 Disallow: /admin/
+Disallow: /download/
