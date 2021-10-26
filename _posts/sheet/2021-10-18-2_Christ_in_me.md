@@ -8,7 +8,7 @@ category: sheet
 permalink: /sheet/christ_in_me
 google_file_code: 1oHKrAC4gRV2J7ziOeZTl3ZZIefRx1Q_y
 pdf_file_name: 그가 내 안에
-youtube_embed: G0CYgSDYBBI
+youtube_embed: G0CYgSDYBBI?autoplay=0&rel=0&vq=highres&modestbranding=1
 tags:
   - music
   - sheet
