@@ -17,3 +17,8 @@ author: NJHDev
 paginate: true
 ---
 <img src="https://github.com/NJHDev2/njhdev_post/blob/main/sheet/%EC%A3%84%20%EB%A7%8E%EC%9D%80%20%EC%9D%B4%20%EC%84%B8%EC%83%81%EC%9D%80%20%EB%82%B4%20%EC%A7%91%20%EC%95%84%EB%8B%88%EB%84%A4.png?raw=true" style="filter: drop-shadow(3px 3px 3px #000)">
+
+<button class="downloadbtn" type="button"
+onclick="download()">
+<i class="fa fa-cloud-download"></i> Download {{ page.pdf_file_name }}.pdf
+</button>
