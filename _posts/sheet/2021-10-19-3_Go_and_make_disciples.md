@@ -8,7 +8,7 @@ category: sheet
 permalink: /sheet/go_and_make_disciples
 google_file_code: 1z0zbyOvFeOSCSfc2_djxPHgGatsYKG9g
 pdf_file_name: 가서 제자 삼으라
-youtube_embed: 
+youtube_embed: bZc7ilIBmqg?start=262&autoplay=0&rel=0&vq=highres&modestbranding=1
 tags:
   - music
   - sheet
@@ -16,8 +16,6 @@ tags:
 author: NJHDev
 paginate: true
 ---
-<iframe width="864" height="486" src="https://www.youtube.com/embed/bZc7ilIBmqg?start=262&autoplay=0&rel=0&vq=highres&modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <img src="https://github.com/NJHDev2/njhdev_post/blob/main/sheet/%EA%B0%80%EC%84%9C%20%EC%A0%9C%EC%9E%90%20%EC%82%BC%EC%9C%BC%EB%9D%BC.png?raw=true" style="filter: drop-shadow(3px 3px 3px #000)">
 
 <button class="downloadbtn" type="button"
