@@ -1,6 +1,6 @@
 ---
 date: 2021-10-18T00:00:00.000Z
-layout: download
+layout: post_sheet
 title: 그가 내 안에 | 제이어스 악보
 subtitle: ' Christ in me | J-US'
 image: https://github.com/NJHDev2/njhdev_post/blob/main/example.jpeg?raw=true
