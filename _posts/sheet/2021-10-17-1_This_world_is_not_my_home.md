@@ -1,6 +1,6 @@
 ---
 date: 2021-10-17T00:00:00.000Z
-layout: download
+layout: post_sheet
 title: 죄 많은 이 세상은 내 집 아니네 | 마커스 워십 악보
 subtitle: 'This world is not my home | Markers Worship'
 image: https://github.com/NJHDev2/njhdev_post/blob/main/example.jpeg?raw=true
