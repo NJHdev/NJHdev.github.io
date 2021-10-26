@@ -5,11 +5,6 @@ layout: post
 
 {{ content }}
 
-<button class="downloadbtn" type="button"
-        onclick="download()">
-  <i class="fa fa-cloud-download"></i> Download {{ page.pdf_file_name }}.pdf
-</button>
-
 <script>
   function download(){
     $('head').append('<meta http-equiv="refresh" content="0; url=https://drive.google.com/uc?export=download&id={{ page.google_file_code }}">');
