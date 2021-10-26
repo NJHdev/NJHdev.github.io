@@ -6,7 +6,7 @@ subtitle: ' Blessed Be the Lord God Almighty | Anointing '
 image: https://github.com/NJHDev2/njhdev_post/blob/main/example.jpeg?raw=true
 category: sheet
 permalink: /sheet/blessed_be_the_lord_god_almighty
-google_file_code: 15cE_1DdCbHsZ89JXbwYdjoR-rfBf--sR
+google_file_code: 15MF9uqifTDjmqqEbsdU2Q7r1xIjq3XOJ
 pdf_file_name: 사랑하는 나의 아버지
 youtube_embed: qDk_yK3PSZ8?autoplay=0&rel=0&vq=highres&modestbranding=1
 tags:
