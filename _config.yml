@@ -12,7 +12,7 @@ show_hero: true
 menu:
   - title: 🏠 Home
     url: /
-  - title: 🤹‍ ♂️About
+  - title: 🤹‍ About
     url: /about
   - title: 📞 Contact
     url: /contact
