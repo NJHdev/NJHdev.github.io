@@ -13,7 +13,7 @@ layout: page
 
 <div class="container">
 
-  <h2><i class="fa fa-envelope-open"></i>{{ site.translations.contact.title | default: "Contact to NJH" }}</h2>
+  <h2><i class="fa fa-envelope-open"></i>{{ site.translations.contact.title | default: " Contact to NJH" }}</h2>
 
   <div id="form" class="contact-form">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{% if site.formspree_form_id %}f/{{ site.formspree_form_id }}{% else %}{{ site.email }}{% endif %}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
@@ -30,7 +30,7 @@ layout: page
                :class="{ 'has-error': errors.has('email') }">
         <span v-if="errors.has('email')" v-cloak>${ errors.first('email') }</span>
 
-        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="{{ site.translations.contact.placeholders.message | default: '여기에 적어주세요!' }}" v-validate="'required'"
+        <textarea style="resize: none;" name="message" onkeyup="adjust_textarea(this)" placeholder="{{ site.translations.contact.placeholders.message | default: '여기에 적어주세요!' }}" v-validate="'required'"
                   :class="{ 'has-error': errors.has('message') }"></textarea>
         <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
 
