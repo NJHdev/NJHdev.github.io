@@ -115,7 +115,6 @@ exclude: [
   'Gemfile.lock',
   'gulpfile.js',
   'README.md',
-  'staff.html',
   'admin'
 ]
 
