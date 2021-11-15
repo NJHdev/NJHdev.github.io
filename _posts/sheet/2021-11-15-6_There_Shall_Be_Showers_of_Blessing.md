@@ -1,5 +1,5 @@
 ---
-date: 2021-11-16T00:00:00.000Z
+date: 2021-11-15T00:00:00.000Z
 layout: post_sheet
 title: 빈들에 마른 풀 같이 | 브리지임팩트 악보
 subtitle: ' There Shall Be Showers of Blessing | Bridge Impact '
