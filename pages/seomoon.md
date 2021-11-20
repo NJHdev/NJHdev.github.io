@@ -4,7 +4,7 @@ title: 새벽이슬 또래특급
 subtitle: '슈브&아하브'
 permalink: /seomoon/
 google_file_code: 1z0zbyOvFeOSCSfc2_djxPHgGatsYKG9g
-pdf_file_name: 슈브&아하브 또래특급.ppt
+pdf_file_name: 슈브&아하브 또래특급
 ---
 <i class="fas fa-music"></i> BGM
 
@@ -18,5 +18,11 @@ pdf_file_name: 슈브&아하브 또래특급.ppt
 
 <button class="downloadbtn" type="button"
 onclick="download()">
-<i class="fa fa-cloud-download"></i> Download {{ page.pdf_file_name }}.pdf
+<i class="fa fa-cloud-download"></i> Download {{ page.pdf_file_name }}.ppt
 </button>
+
+<script>
+  function download(){
+    $('head').append('<meta http-equiv="refresh" content="0; url=https://drive.google.com/uc?export=download&id=17NQYuLJLWmf_hYX3B9hfdv400ld2bsAz">');
+  }
+</script>
