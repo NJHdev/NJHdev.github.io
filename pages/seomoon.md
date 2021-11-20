@@ -14,7 +14,7 @@ pdf_file_name: 슈브&아하브 또래특급
 
 <i class="fas fa-file-powerpoint"></i> PPT
 
-<img onclick="download()" src="https://drive.google.com/uc?id=119KzTGYCp_1msTjf0BES7f9ybBlfg6nq" style="style="cursor:pointer; filter: drop-shadow(3px 3px 3px #000)">
+<img onclick="download()" src="https://drive.google.com/uc?id=119KzTGYCp_1msTjf0BES7f9ybBlfg6nq" style="cursor:pointer; filter: drop-shadow(3px 3px 3px #000)">
 
 <script>
   function download(){
