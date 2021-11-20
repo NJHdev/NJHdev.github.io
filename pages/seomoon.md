@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: 청년부 또래특급
 description: 
 permalink: /seomoon/
