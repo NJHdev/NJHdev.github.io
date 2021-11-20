@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 새벽이슬 또래특급
-subtitle: '슈브&아하브'
+subtitle: '슈브בושׁ&아하브אַהֲבָה'
 permalink: /seomoon/
 google_file_code: 1z0zbyOvFeOSCSfc2_djxPHgGatsYKG9g
 pdf_file_name: 슈브&아하브 또래특급
