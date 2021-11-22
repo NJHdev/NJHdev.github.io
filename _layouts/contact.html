@@ -26,7 +26,7 @@ layout: page
                :class="{ 'has-error': errors.has('name') }">
         <span v-if="errors.has('name')" v-cloak>${ errors.first('name') }</span>
 
-        <input type="text" name="email" placeholder="{{ site.translations.contact.placeholders.email | default: '이메일' }}" v-validate="'required|email'"
+        <input type="text" name="email" placeholder="{{ site.translations.contact.placeholders.email | default: '이메일 | 본인의 이메일을 적어주셔야 답변이 가능합니다!' }}" v-validate="'required|email'"
                :class="{ 'has-error': errors.has('email') }">
         <span v-if="errors.has('email')" v-cloak>${ errors.first('email') }</span>
 
