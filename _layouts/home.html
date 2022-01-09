@@ -43,8 +43,9 @@ layout: main
         </section>
     {% endif %}
     <!-- Posts -->
+	<!--{{ site.categories_folder | default: 'category' }}/-->
     {% for cate in site.category %}
-	<h1 class="title-category"><a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ cate }}" style="text-decoration:none; color:white;">{{ cate }}</a></h1>
+	<h1 class="title-category"><a href="{{ site.baseurl }}/{{ cate }}" style="text-decoration:none; color:white;">{{ cate }}</a></h1>
     <section id="grid" class="row flex-grid">
         {% for post in posts offset: offset %}
 	    {% if post.category == cate %}
