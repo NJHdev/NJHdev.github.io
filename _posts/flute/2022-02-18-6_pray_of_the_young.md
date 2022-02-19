@@ -1,7 +1,7 @@
 ---
 date: 2022-02-18T00:00:00.000Z
 layout: post
-title: 손경민-청년의 기도 플룻 커버
+title: 손경민 - 청년의 기도 플룻 커버
 subtitle: 'Pray of the Young Flute Cover'
 description: 
 image: https://github.com/NJHDev2/njhdev_post/blob/main/flute/Pray_of_the_Young.png?raw=true
