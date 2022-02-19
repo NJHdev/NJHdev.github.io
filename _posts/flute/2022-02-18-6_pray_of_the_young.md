@@ -21,7 +21,7 @@ paginate: true
 
 {Credit}
 <br/>Flute_NJH
-<br/>Inst_손경민 (Official) (https://youtu.be/v0O-9hmz2Aw)
+<br/>Inst_[`손경민 (Official)`](https://youtu.be/v0O-9hmz2Aw)
 <br/>Mix_NJH
 <br/>Mastering_NJH&Ozone
 <br/>MV_NJH
