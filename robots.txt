@@ -2,6 +2,7 @@
 
 User-agent: *
 Disallow: 
+Sitemap: http://njhdev.com/sitemap.xml
 
 User-agent: Yeti
 Disallow:
