@@ -18,7 +18,7 @@ h4 {
   margin-left: -1.5px;
   left: 20px;
 }
-@media /*(min-width: 576px)*/ {
+@media {
   .timeline:before {
     left: 50%;
   }
@@ -67,7 +67,7 @@ h4 {
   padding-bottom: 20px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
-@media /*(min-width: 576px)*/ {
+@media {
   .timeline > li {
     padding-left: 0px;
   }
@@ -102,7 +102,7 @@ h4 {
 .timeline > li > .icon:before {
   content: "\f192";
 }
-@media /*(min-width: 576px)*/ {
+@media {
   .timeline > li > .icon {
     left: 50%;
   }
