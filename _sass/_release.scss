@@ -18,7 +18,11 @@ h4 {
   margin-left: -1.5px;
   left: 20px;
 }
-
+@media (min-width: 300px) {
+  .timeline:before {
+    left: 50%;
+  }
+}
 .timeline > li {
   margin-bottom: 20px;
   position: relative;
@@ -63,7 +67,23 @@ h4 {
   padding-bottom: 20px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
-
+@media (min-width: 300px) {
+  .timeline > li {
+    padding-left: 0px;
+  }
+  .timeline > li .panel {
+    width: 50%;
+  }
+  .timeline > li:not(:nth-child(even)) {
+    padding-right: 90px;
+  }
+  .timeline > li:nth-child(even) {
+    padding-left: 90px;
+  }
+  .timeline > li:nth-child(even) > :nth-child(even) {
+    float: right;
+  }
+}
 .timeline > li > .icon {
   color: #d9d9d9;
   width: 50px;
@@ -82,7 +102,11 @@ h4 {
 .timeline > li > .icon:before {
   content: "\f192";
 }
-
+@media (min-width: 300px) {
+  .timeline > li > .icon {
+    left: 50%;
+  }
+}
 .timeline > li > .icon.done {
   color: #23b5af;
 }
