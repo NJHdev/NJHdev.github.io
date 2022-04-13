@@ -20,6 +20,15 @@ menu:
     url: /tags
   - title: 📝 Release notes
     url: /release
+menu_category:
+  - title: 🎶 Music
+    url: /music
+  - title: 🎹 Midi
+    url: /midi
+  - title: 🎺 Flute
+    url: /flute
+  - title: 🎼 Sheet
+    url: /sheet
 footermenu:
   - title: Home
     url: /

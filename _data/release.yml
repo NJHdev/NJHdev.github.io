@@ -75,3 +75,8 @@
 - date: Oct. 17, 2021
   lists:
     - list: CCM악보 업로드
+
+- date: Apr. 14, 2022
+  lists:
+    - list: 사이드바에 카테고리 메뉴 추가
+    - list: index페이지 overflow 해제 (가로정렬 수정)
