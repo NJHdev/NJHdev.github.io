@@ -3,7 +3,7 @@ date: 2021-10-19T00:00:00.000Z
 layout: post_sheet
 title: 구원의 반석 | 마커스 악보
 subtitle: ' Blessed be the rock | Markers Worship '
-image: https://github.com/NJHDev2/njhdev_post/blob/main/example.jpeg?raw=true
+image: https://github.com/NJHDev2/njhdev_post/blob/main/sheet/%EA%B5%AC%EC%9B%90%EC%9D%98%20%EB%B0%98%EC%84%9D.png?raw=true
 category: sheet
 permalink: /sheet/blessed_be_the_rock
 google_file_code: 14p6VJKGJdLs-EXVMEh6GKm7v95gYtWxD
