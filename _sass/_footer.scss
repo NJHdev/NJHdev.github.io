@@ -86,8 +86,8 @@ footer:not(.fc-dialog-footer) {
   }
 }
 
-.main-page:not(.fc-dialog-footer) {
-  footer {
+.main-page {
+  footer:not(.fc-dialog-footer) {
     background: $primaryDark;
     border-top: 1px solid lighten($primaryDark, 10%);
     
