@@ -1,5 +1,5 @@
 ---
-date: 2023-12-11T00:00:00.000Z
+date: 2023-12-10T00:00:00.000Z
 layout: post_sheet
 title: 빛으로 오신 예수님 | 히즈윌 악보
 subtitle: ' God Came To Light | Hiswill '
