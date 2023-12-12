@@ -128,10 +128,10 @@ exclude: [
 ]
 
 category: [
-  'music',
+  'sheet',
   'flute',
   'midi',
-  'sheet'
+  'music'
 ]
 
 # Theme
